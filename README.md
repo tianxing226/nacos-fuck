@@ -29,6 +29,8 @@ pip install requests colorama urllib3 tqdm
 
 **基本命令格式**
 
+python nacos-fuck.py [默认使用本地url.txt]
+
 python nacos-fuck.py [选项]
 
 ```
